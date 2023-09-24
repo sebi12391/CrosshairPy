@@ -1,0 +1,8 @@
+{
+    "CROSSHAIR_IMAGE_NAME": "crosshair.png",
+    "RESIZE_IMAGE": true,
+    "RESIZE_TO_WIDTH": 50,
+    "RESIZE_TO_HEIGHT": 50,
+    "TIMER_INTERVAL_MS": 0,
+    "FOLLOW_MOUSE": false
+}
