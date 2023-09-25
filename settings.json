@@ -3,6 +3,8 @@
     "RESIZE_IMAGE": true,
     "RESIZE_TO_WIDTH": 50,
     "RESIZE_TO_HEIGHT": 50,
-    "TIMER_INTERVAL_MS": 0,
-    "FOLLOW_MOUSE": true
+    "TIMER_INTERVAL_MS": 1,
+    "FOLLOW_MOUSE": true,
+    "OFFSET_X": 0,
+    "OFFSET_Y": 0
 }
